@@ -1,0 +1,15 @@
+{
+  "appid": 3065800,
+  "scraped_at_utc": "2026-08-17T22:31:09.249182+00:00",
+  "pages_fetched": 596,
+  "reviews_written": 59489,
+  "duplicates_skipped": 0,
+  "query_summary": {
+    "num_reviews": 100,
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "total_positive": 48922,
+    "total_negative": 14637,
+    "total_reviews": 63559
+  }
+}
